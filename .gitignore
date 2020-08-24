@@ -1,0 +1,5 @@
+.env
+.vscode
+*.csv
+__pycache__
+*.pyc

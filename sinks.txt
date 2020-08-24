@@ -1,0 +1,290 @@
+body { color :\'$http_build_query\' ; }
+<div id="$tainted">content</div>
+<div onmouseover="x="$system"\>
+alert('$filter_var')
+body { color :"$urlencode" ; }
+<div onmouseover="x='$filter_var'\>
+$_nums_22
+<div id=$tainted>content</div>
+<div onmouseover="x='$unserialize'\>
+x='$urlencode'
+body { color :"$mysql_real_escape_string" ; }
+alert("$preg_replace")
+x="$_nums_30"
+window.setInterval('$filter_var');
+<div $filter_var= bob />
+alert("$tainted")
+<span style="color :$htmlspecialchars">Hey</span>
+body { color :$__none__ ; }
+<div onmouseover="x="$rawurlencode"\>
+alert('$htmlentities')
+<div $urlencode= bob />
+<div onmouseover="x='$htmlentities'\>
+<div id='$htmlentities'>content</div>
+<div id="$addslashes">content</div>
+<div id='$mysql_real_escape_string'>content</div>
+<div $__none__= bob />
+<div id="$preg_replace">content</div>
+body { color :\'$htmlentities\' ; }
+$htmlspecialchars
+<div onmouseover="x='$http_build_query'\>
+alert("$_nums_30")
+<div id='$urlencode'>content</div>
+body { color :\'$__none__\' ; }
+body { color :\'$unserialize\' ; }
+<div id=$preg_replace>content</div>
+alert('$urlencode')
+<div id="$htmlspecialchars">content</div>
+<div id='$filter_var'>content</div>
+body { color :$htmlspecialchars ; }
+<div onmouseover="x="$htmlspecialchars"\>
+<div $tainted= bob />
+<div id=$system>content</div>
+<div id='$unserialize'>content</div>
+<div id=$__none__>content</div>
+alert('$http_build_query')
+alert("$addslashes")
+body { color :$tainted ; }
+<div id="$fread">content</div>
+x='$filter_var'
+<div onmouseover="x="$unserialize"\>
+<div $preg_replace= bob />
+body { color :\'$mysql_real_escape_string\' ; }
+alert("$shell_exec")
+<div onmouseover="x='$urlencode'\>
+x="$tainted"
+$mysql_real_escape_string
+window.setInterval('$urlencode');
+<$preg_replace href= "/bob" />
+<div id=$htmlentities>content</div>
+<div onmouseover="x="$__none__"\>
+<span style="color :$system">Hey</span>
+window.setInterval('$_nums_30');
+<div id='$system'>content</div>
+alert('$preg_replace')
+<div id=$fread>content</div>
+<span style="color :$_nums_22">Hey</span>
+<span style="color :$__none__">Hey</span>
+<span style="color :$mysql_real_escape_string">Hey</span>
+<div id="$system">content</div>
+body { color :$system ; }
+<div id=$addslashes>content</div>
+<div $mysql_real_escape_string= bob />
+x="$htmlspecialchars"
+body { color :\'$rawurlencode\' ; }
+<span style="color :$http_build_query">Hey</span>
+body { color :"$system" ; }
+alert('$tainted')
+x='$system'
+body { color :$mysql_real_escape_string ; }
+x='$htmlentities'
+alert("$system")
+<div $htmlentities= bob />
+x='$htmlspecialchars'
+<div id="$_nums_30">content</div>
+window.setInterval('$rawurlencode');
+x="$filter_var"
+body { color :$http_build_query ; }
+<div onmouseover="x="$_nums_30"\>
+<div onmouseover="x="$urlencode"\>
+alert("$rawurlencode")
+<div onmouseover="x='$rawurlencode'\>
+x="$fread"
+<div onmouseover="x='$fread'\>
+body { color :$filter_var ; }
+$addslashes
+<div $unserialize= bob />
+<div id="$urlencode">content</div>
+alert("$unserialize")
+alert('$mysql_real_escape_string')
+<div onmouseover="x='$_nums_22'\>
+body { color :$addslashes ; }
+x='$http_build_query'
+body { color :"$htmlentities" ; }
+<div $http_build_query= bob />
+<div id="$_nums_22">content</div>
+window.setInterval('$http_build_query');
+body { color :"$rawurlencode" ; }
+<$rawurlencode href= "/bob" />
+body { color :"$filter_var" ; }
+x="$preg_replace"
+$http_build_query
+x='$mysql_real_escape_string'
+<div id=$shell_exec>content</div>
+<$htmlentities href= "/bob" />
+body { color :\'$preg_replace\' ; }
+window.setInterval('$_nums_22');
+<div onmouseover="x='$mysql_real_escape_string'\>
+$unserialize
+<div id="$htmlentities">content</div>
+<div id='$_nums_30'>content</div>
+<div onmouseover="x="$fread"\>
+alert('$fread')
+alert("$_nums_22")
+<div id='$_nums_22'>content</div>
+window.setInterval('$fread');
+window.setInterval('$unserialize');
+<span style="color :$tainted">Hey</span>
+<div id='$preg_replace'>content</div>
+<div onmouseover="x="$mysql_real_escape_string"\>
+body { color :$fread ; }
+<div id="$filter_var">content</div>
+<div id="$http_build_query">content</div>
+$system
+x='$tainted'
+body { color :"$addslashes" ; }
+body { color :$urlencode ; }
+<div id="$shell_exec">content</div>
+<$system href= "/bob" />
+x='$_nums_30'
+<div id=$_nums_30>content</div>
+body { color :\'$_nums_30\' ; }
+<span style="color :$rawurlencode">Hey</span>
+body { color :\'$system\' ; }
+window.setInterval('$__none__');
+body { color :\'$shell_exec\' ; }
+<span style="color :$_nums_30">Hey</span>
+<span style="color :$htmlentities">Hey</span>
+<div $_nums_22= bob />
+<$shell_exec href= "/bob" />
+<div id='$shell_exec'>content</div>
+body { color :\'$tainted\' ; }
+x="$__none__"
+<div onmouseover="x="$addslashes"\>
+<div id='$htmlspecialchars'>content</div>
+<div $rawurlencode= bob />
+window.setInterval('$htmlentities');
+<div $addslashes= bob />
+body { color :$htmlentities ; }
+body { color :"$unserialize" ; }
+body { color :"$preg_replace" ; }
+body { color :\'$urlencode\' ; }
+x='$fread'
+body { color :"$shell_exec" ; }
+$preg_replace
+<div id=$urlencode>content</div>
+x="$rawurlencode"
+<div id=$htmlspecialchars>content</div>
+window.setInterval('$shell_exec');
+<div onmouseover="x='$tainted'\>
+<div onmouseover="x='$preg_replace'\>
+<div id="$mysql_real_escape_string">content</div>
+ECHO_CONST
+<span style="color :$urlencode">Hey</span>
+$urlencode
+<div onmouseover="x='$shell_exec'\>
+<div onmouseover="x='$addslashes'\>
+<$urlencode href= "/bob" />
+<$htmlspecialchars href= "/bob" />
+x='$_nums_22'
+$rawurlencode
+<div id=$_nums_22>content</div>
+body { color :"$fread" ; }
+$filter_var
+alert('$__none__')
+window.setInterval('$preg_replace');
+<$fread href= "/bob" />
+<span style="color :$unserialize">Hey</span>
+body { color :"$tainted" ; }
+<div onmouseover="x='$system'\>
+<div onmouseover="x='$__none__'\>
+body { color :\'$fread\' ; }
+window.setInterval('$htmlspecialchars');
+<div id='$http_build_query'>content</div>
+$shell_exec
+alert("$filter_var")
+alert('$_nums_22')
+body { color :$_nums_30 ; }
+<$__none__ href= "/bob" />
+<$unserialize href= "/bob" />
+<div $system= bob />
+<$_nums_22 href= "/bob" />
+<div id=$http_build_query>content</div>
+body { color :"$_nums_30" ; }
+<span style="color :$shell_exec">Hey</span>
+x='$rawurlencode'
+$htmlentities
+body { color :"$__none__" ; }
+$tainted
+<div $fread= bob />
+<div id=$rawurlencode>content</div>
+<span style="color :$addslashes">Hey</span>
+body { color :$rawurlencode ; }
+body { color :"$htmlspecialchars" ; }
+x="$shell_exec"
+body { color :"$http_build_query" ; }
+x="$addslashes"
+<$http_build_query href= "/bob" />
+$_nums_30
+<div onmouseover="x="$_nums_22"\>
+x='$unserialize'
+x="$_nums_22"
+alert("$urlencode")
+alert('$_nums_30')
+body { color :\'$addslashes\' ; }
+body { color :$shell_exec ; }
+<div onmouseover="x="$htmlentities"\>
+body { color :$_nums_22 ; }
+body { color :$unserialize ; }
+x="$http_build_query"
+x="$system"
+<span style="color :$filter_var">Hey</span>
+<div $htmlspecialchars= bob />
+<div id='$__none__'>content</div>
+alert("$mysql_real_escape_string")
+$fread
+window.setInterval('$system');
+<div id='$rawurlencode'>content</div>
+x="$unserialize"
+body { color :"$_nums_22" ; }
+body { color :\'$filter_var\' ; }
+<div id=$mysql_real_escape_string>content</div>
+<span style="color :$preg_replace">Hey</span>
+<div id="$__none__">content</div>
+alert('$system')
+<div id=$filter_var>content</div>
+alert("$__none__")
+alert('$rawurlencode')
+<$_nums_30 href= "/bob" />
+<$tainted href= "/bob" />
+window.setInterval('$mysql_real_escape_string');
+body { color :$preg_replace ; }
+<span style="color :$fread">Hey</span>
+$__none__
+<div onmouseover="x='$htmlspecialchars'\>
+alert('$shell_exec')
+x='$addslashes'
+window.setInterval('$addslashes');
+<$mysql_real_escape_string href= "/bob" />
+<div onmouseover="x='$_nums_30'\>
+alert("$htmlspecialchars")
+x='$__none__'
+body { color :\'$htmlspecialchars\' ; }
+alert('$htmlspecialchars')
+<div onmouseover="x="$shell_exec"\>
+x="$urlencode"
+alert("$fread")
+x='$shell_exec'
+<div id="$rawurlencode">content</div>
+<div $_nums_30= bob />
+<div onmouseover="x="$filter_var"\>
+<div onmouseover="x="$tainted"\>
+x="$htmlentities"
+x='$preg_replace'
+alert("$http_build_query")
+<$addslashes href= "/bob" />
+x="$mysql_real_escape_string"
+alert("$htmlentities")
+<div id='$addslashes'>content</div>
+<div onmouseover="x="$http_build_query"\>
+<div onmouseover="x="$preg_replace"\>
+<div id="$unserialize">content</div>
+<$filter_var href= "/bob" />
+<div id=$unserialize>content</div>
+<div $shell_exec= bob />
+<div id='$tainted'>content</div>
+alert('$addslashes')
+alert('$unserialize')
+window.setInterval('$tainted');
+body { color :\'$_nums_22\' ; }
+<div id='$fread'>content</div>
