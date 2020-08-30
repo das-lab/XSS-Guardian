@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from typing import Union
+
 from . import SINK_TYPE_DICT
 from ..model import sink_cluster_model
 import re
@@ -95,19 +95,4 @@ def sink2token(sink: str) -> str:
     return SINK_TYPE_DICT[c[0]]
 
 
-def get_sink(path: str, lineno: int) -> Union[None, str]:
-    pat = r'\s*echo\s*(.*?)\s*;'
-    sl = None
-    with open(path, encoding='utf-8') as fp:
-        cl = 0
-        for line in fp:
-            cl += 1
-            if cl == lineno:
-                sl = re.findall(pat, line)
-    if sl:
-        return sl[0]
-    else:
-        return None
-
-
-__all__ = ['sink2token', 'get_sink']
+__all__ = ['sink2token', 'get_sink_features']
